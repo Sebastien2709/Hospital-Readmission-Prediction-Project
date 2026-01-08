@@ -79,7 +79,7 @@ Output performance metrics.
 
 Save plots (roc_curve_final.png) and the model (readmission_model.pkl).
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 To bridge the gap from 0.68 to 0.80+, future iterations would require:
 
 NLP on Clinical Notes: Extracting sentiment and keywords from unstructured nursing notes (often containing the "real" story).
